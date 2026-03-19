@@ -1,0 +1,8 @@
+{
+  "name": "claude-skills",
+  "version": "0.1.0",
+  "description": "A curated collection of recommended Claude Code skills for easy access and sharing",
+  "author": {
+    "name": "Douglas Rodrigues"
+  }
+}
