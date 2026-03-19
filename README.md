@@ -31,13 +31,13 @@ Or browse for it in:
 You can install directly from the GitHub repo:
 
 ```bash
-claude plugins add-from-url https://github.com/douglasrodrigues/claude-skills.git
+claude plugins add-from-url https://github.com/vsrdouglas/claude-skills.git
 ```
 
 ### From a local clone
 
 ```bash
-git clone https://github.com/douglasrodrigues/claude-skills.git
+git clone https://github.com/vsrdouglas/claude-skills.git
 claude --plugin-dir /path/to/claude-skills
 ```
 
